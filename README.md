@@ -1,4 +1,4 @@
-#rithm-jokes-fe
+# rithm-jokes-fe
 Frontend for a Jokes API backed by icanhazdadjokes.
 
 Setup Instructions
